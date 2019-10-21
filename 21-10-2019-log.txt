@@ -1,0 +1,3 @@
+*************** SYSTEM INFORMATIONS ***************
+Manufacturer: Microsoft
+Operating system: Windows 10 build 17134 64 bit
